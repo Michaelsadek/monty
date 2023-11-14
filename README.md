@@ -1,1 +1,1 @@
-stck
+stack
